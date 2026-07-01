@@ -29,7 +29,7 @@ INTRODUCTION GÉNÉRALE
 
 Ce manuscrit présente "PROGRAMMER SANS CODER" — un guide complet destiné à transformer des développeurs en architectes logiciels augmentés par l'intelligence artificielle. Le document livré ici est un manuscrit draft complet structuré en sections, chapitres, sous‑sections, ateliers pratiques, études de cas et annexes. Les paragraphes suivants constituent le contenu initial rédigé pour chaque chapitre : introductions, objectifs pédagogiques, sections détaillées, exercices guidés, checklists, exemples et placeholders pour figures/diagrammes.
 
-Note : Les [FIGURE: ...] sont des placeholders qui indiquent l'emplacement des schémas. Les sources PlantUML correspondantes sont disponibles dans le dossier /images/ (fichiers .puml). Utilise PlantUML pour rendre les PNG/SVG et les insérer dans le document final.
+Note : Les images insérées ci‑dessous correspondent aux rendus PlantUML. Elles ont été ajoutées aux emplacements des placeholders [FIGURE: images/xxx.png].
 
 ---
 
@@ -42,7 +42,7 @@ Exemple pratique
 Atelier guidé
 Checklist
 Conclusion
-[FIGURE: images/architecture_overview.png]
+[FIGURE: images/architecture_overview.svg]
 
 Chapitre 0.2 — De développeur à architecte
 Introduction
@@ -70,8 +70,8 @@ Chapitre 1 — L'évolution de la programmation
 Introduction historique
 Timeline des ruptures
 Comparaison frameworks vs LLM
-Infographie placeholder
-[FIGURE: images/timeline.png]
+Infographie insérée
+[FIGURE: images/timeline.svg]
 
 Chapitre 2 — Le code n'est plus le centre
 Startup case
@@ -109,7 +109,7 @@ PARTIE III — TRAVAILLER AVEC L'INTELLIGENCE ARTIFICIELLE
 Chapitre 8 — Le Plan de Construction Universel
 Définition
 Étapes
-[FIGURE: images/plan_construction.png]
+[FIGURE: images/plan_construction.svg]
 
 Chapitre 9 — Bases de données intelligentes
 Normalisation par IA
@@ -141,24 +141,26 @@ PARTIE IV — CONSTRUIRE DES SYSTÈMES INDUSTRIELS MODERNES
 Chapitre 14 — Configuration over Coding
 Principes
 Exercices
-[FIGURE: images/config_over_coding.png]
+[FIGURE: images/config_over_coding.svg]
 
 Chapitre 15 — Server-Driven UI
 Pattern description
 Exemple Flutter
+[FIGURE: images/server_driven_ui.svg]
 
 Chapitre 16 — Modular Micro-Kernel Architecture
 Description
 Plugin example
-[FIGURE: images/microkernel.png]
+[FIGURE: images/microkernel.svg]
 
 Chapitre 17 — Architectures data-driven
 Pipelines et event-driven
-[FIGURE: images/data_pipeline.png]
+[FIGURE: images/data_pipeline.svg]
 
 Chapitre 18 — Plateformes évolutives
 Scalabilité et résilience
 Ateliers
+[FIGURE: images/deployment_k8s.svg]
 
 ---
 
@@ -171,6 +173,7 @@ Checklist
 Chapitre 20 — Tests intelligents
 Génération de tests
 Stratégies CI
+[FIGURE: images/ci_cd.svg]
 
 Chapitre 21 — Sécurité des systèmes IA
 OAuth2/JWT, OWASP
@@ -289,6 +292,7 @@ ANNEXE: FICHIERS TÉLÉCHARGEABLES (CHECKLISTS / TEMPLATES)
 ---
 
 Notes finales:
-- Ce document est un manuscrit draft complet destiné à servir de base à la mise en page finale. Il contient les textes d'introduction, les objectifs, les listes de sections et des instructions pour l'ajout d'illustrations et d'exemples.
-- Les fichiers PlantUML (.puml) joints dans /images/ peuvent être rendus en PNG/SVG via PlantUML et insérés aux emplacements des placeholders.
+- Les images SVG générées à partir des sources PlantUML ont été ajoutées dans /images/ et insérées aux emplacements correspondants dans ce document.
+- Le document reste un draft : les chapitres demandent rédaction complète et enrichment (exemples concrets, cas pratiques détaillés, quiz, exercices corrigés).
+- Pour la mise en page finale (InDesign/Word), il faudra importer le .docx, vérifier les styles, ajouter les légendes d'images et générer la table des matières automatique.
 
