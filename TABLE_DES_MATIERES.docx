@@ -1,0 +1,173 @@
+PROGRAMMER SANS CODER
+LE GUIDE COMPLET POUR DEVENIR
+ARCHITECTE LOGICIEL À L'ÈRE DE L'INTELLIGENCE ARTIFICIELLE
+
+Auteur : Almeida Kayoka Jefferson
+Éditeur : ESHECF PRESS — Éditions de l'Institut International de l'Intelligence Artificielle
+
+Dernière mise à jour : 1 juillet 2026
+Format : Broché / eBook Kindle / Édition Deluxe
+Pagination estimée : ≈ 540 pages
+Langue : Français
+
+ISBN (édition française) : ISBN-XXXXX-XXXXX
+Dépôt légal : [pays] — [année]
+
+Couverture et design : [Nom du designer]
+Photographie / Illustrations : [Crédits]
+
+Version : Première édition — Révision : finale (mise à jour contenu, annexes et ressources numériques)
+QR CODE (bonus & dépôt GitHub) : [insérer QR vers https://github.com/... ou site officiel]
+
+« Devenez l’Architecte du futur numérique.
+L’IA ne remplace pas les développeurs — elle les élève. »
+
+© 2026 Almeida Kayoka Jefferson — Tous droits réservés.
+Aucune partie de cette publication ne peut être reproduite, stockée ou transmise sous quelque forme que ce soit sans l’autorisation écrite de l’éditeur, sauf dans les cas prévus par la loi.
+
+ESHECF PRESS
+Adresse éditeur : [adresse complète]
+Site officiel : https://eshecf.press
+Contact presse : presse@eshecf.press
+
+
+PAGE DE GARDE ...................................................... 1
+PAGE DE DROITS / COPYRIGHT ........................................ 2
+DÉDICACE .......................................................... 3
+REMERCIEMENTS ..................................................... 4
+PRÉFACE / AVANT-PROPOS ............................................ 5–6
+TABLE DES MATIÈRES (intégrale) .................................... 7–14
+LISTE DES FIGURES / TABLEAUX / SCHÉMAS ............................ 15–16
+INTRODUCTION GÉNÉRALE ............................................ 17–18
+
+PARTIE 0 — FONDATIONS MENTALES DE L’ARCHITECTE IA ................ 19–50
+  Chapitre 0.1 — Le grand malentendu sur l’IA ...................... 19–24
+    Exemple pratique, étude comparée, atelier, checklist
+  Chapitre 0.2 — De développeur à architecte ........................ 25–32
+    Parcours, cas pratique, transformation CRUD → modules
+  Chapitre 0.3 — Le nouveau rôle du cerveau humain .................. 33–40
+    Arbitrages, atelier décisionnel, analogies
+  Chapitre 0.4 — Le mindset PACTE .................................. 41–50
+    Exercices, étude de cas e‑commerce, templates PACTE
+
+PARTIE I — COMPRENDRE LA RÉVOLUTION TECHNOLOGIQUE ................. 51–86
+  Chapitre 1 — L’évolution de la programmation ..................... 51–60
+    Timeline, comparaison frameworks vs LLM, infographie
+  Chapitre 2 — Le code n’est plus le centre ........................ 61–68
+    Cas startup, atelier prototypage automatique
+  Chapitre 3 — Les nouvelles règles du logiciel .................... 69–76
+    Checklist “Décrire avant de coder”, configuration IA
+  Chapitre 4 — La nouvelle identité du développeur ................ 77–86
+    Rôle d’orchestre, étude de cas agile, journée type
+
+PARTIE II — REPRENDRE CONFIANCE ET RECONSTRUIRE LES BASES ......... 87–118
+  Chapitre 5 — Penser avant de coder .............................. 87–96
+    Découpage système, exercice réservation, outils visuels
+  Chapitre 6 — Les fondamentaux intemporels ........................ 97–108
+    Structures de données, BD relationnelle, API sécurisée
+  Chapitre 7 — Le jugement humain reste central ................... 109–118
+    Arbitrages, débat éthique, priorisation fonctionnalités
+
+PARTIE III — TRAVAILLER AVEC L’INTELLIGENCE ARTIFICIELLE .......... 119–188
+  Chapitre 8 — Le Plan de Construction Universel .................. 119–128
+    Plan directeur, schéma flux, atelier Miro/Lucidchart
+  Chapitre 9 — Bases de données intelligentes .................... 129–138
+    Normalisation, transformation SQL → IA, simulateurs
+  Chapitre 10 — Génération complète d’application ................ 139–150
+    Backend + frontend générés, validation humaine, tests
+  Chapitre 11 — Prompt Engineering pour architectes .............. 151–162
+    Prompts d’architecture, templates, refactorisation
+  Chapitre 12 — Les agents IA spécialisés ........................ 163–174
+    Orchestration d’agents, simulation de sprint
+  Chapitre 13 — Une journée avec un Architecte IA ................ 175–188
+    Journal de bord, suivi projet fictif, atelier pratique
+
+PARTIE IV — CONSTRUIRE DES SYSTÈMES INDUSTRIELS MODERNES ....... 189–232
+  Chapitre 14 — Configuration over Coding ........................ 189–196
+    YAML/JSON, exercices notification, Terraform/K8s
+  Chapitre 15 — Server‑Driven UI ................................ 197–204
+    UI pilotée par serveur, atelier Flutter
+  Chapitre 16 — Modular Micro‑Kernel Architecture ............... 205–212
+    Noyau + plugins, exercice plugin paiement
+  Chapitre 17 — Architectures data‑driven ........................ 213–222
+    Pipelines, Kafka, réactivité
+  Chapitre 18 — Plateformes évolutives .......................... 223–232
+    Scalabilité horizontale, résilience, K8s + Docker
+
+PARTIE V — GARDER LE CONTRÔLE SUR LES SYSTÈMES IA ............... 233–284
+  Chapitre 19 — Vérification du code IA ........................ 233–240
+    Audit code, SonarQube, revue manuelle
+  Chapitre 20 — Tests intelligents ................................ 241–248
+    Génération de tests, Cypress/Jest, stratégies
+  Chapitre 21 — Sécurité des systèmes IA ........................ 249–258
+    OAuth2/JWT, OWASP ZAP, simulation d’attaque
+  Chapitre 22 — Optimisation des performances ................... 259–266
+    Caching Redis, mesure de latence, tuning
+  Chapitre 23 — Réduction des coûts IA .......................... 267–274
+    Optimisation de prompts, batch, coût par requête
+  Chapitre 24 — Erreurs critiques à éviter ....................... 275–284
+    Étude d’échecs, checklist pré‑déploiement
+
+PARTIE VI — PASSER À L’ÉCHELLE INDUSTRIELLE ..................... 285–336
+  Chapitre 25 — Cas d’étude : E‑commerce ........................ 285–294
+    Architecture catalogue → paiement → logistique
+  Chapitre 26 — Cas d’étude : Transport .......................... 295–304
+    Matching, géolocalisation, simulation trafic
+  Chapitre 27 — Cas d’étude : Santé ................................ 305–314
+    Données sensibles, HL7/FHIR, anonymisation
+  Chapitre 28 — Cas d’étude : Éducation .......................... 315–324
+    LMS intelligent, parcours personnalisé
+  Chapitre 29 — Construction d’une Super‑App .................... 325–336
+    Modules intégrés, orchestration, cas Super‑App Afrique
+
+PARTIE VII — LEÇONS DES GRANDES ENTREPRISES TECH ................ 337–358
+  Chapitre 30 — Architectures des géants ........................ 337–348
+    Uber, Amazon, Netflix, Shopify, Grab — études et ateliers
+  Chapitre 31 — Principes universels ............................ 349–358
+    Modularité, scalabilité, résilience, automation, simplicité
+
+PARTIE VIII — DEVENIR ARCHITECTE DE L’INTELLIGENCE .............. 359–390
+  Chapitre 32 — Le développeur en 2030 .......................... 359–368
+    Scénarios, rôle, exercice prospectif
+  Chapitre 33 — Systèmes auto‑adaptatifs ........................ 369–378
+    Auto‑optimisation, monitoring intelligent
+  Chapitre 34 — Architecte augmenté ............................. 379–390
+    Supervision multi‑IA, dashboards Grafana/Prometheus
+
+PARTIE IX — PRINCIPES INTEMPORELS DE CONCEPTION ................ 391–418
+  Chapitre 35 — Lois universelles du logiciel .................... 391–400
+    5 lois (ordre, cohérence, simplicité, modularité, robustesse)
+  Chapitre 36 — Concevoir avant d’exécuter ....................... 401–408
+    Design‑first, sprints, prototypage
+  Chapitre 37 — Programmer comme acte de création ............... 409–418
+    Vision produit, design thinking, storytelling
+
+PARTIE X — MANUEL PRATIQUE DE L’ARCHITECTE IA .................. 419–478
+  Chapitre 38 — Checklists professionnelles .................... 419–430
+    Templates, workflow Trello/Notion
+  Chapitre 39 — Bibliothèque de prompts ........................ 431–444
+    Extraits, templates, gestionnaires de prompts
+  Chapitre 40 — Modèles d’architecture .......................... 445–458
+    Clean, Hexagonal, Event‑Driven, PlantUML
+  Chapitre 41 — Glossaire de référence .......................... 459–478
+    300+ définitions, quiz et intégration KBase
+
+ANNEXES ......................................................... 479–552
+  Annexe A — Bibliothèque de prompts avancés ................... 479–488
+  Annexe B — Plans complets de systèmes ........................ 489–500
+    ERP, CRM, LMS, Marketplace, FinTech, HealthTech, Super‑App
+  Annexe C — Schémas d’architecture ............................. 501–512
+    Microservices, monolithe modulaire, event‑driven, server‑driven UI
+  Annexe D — Checklists professionnelles ........................ 513–522
+  Annexe E — Exercices pratiques ................................ 523–534
+  Annexe F — Ressources ......................................... 535–542
+  Annexe G — Index général ..................................... 543–552
+
+COLLECTE DE RESSOURCES EN LIGNE (QR / GITHUB / BONUS) ........... 553–556
+BIBLIOGRAPHIE & RÉFÉRENCES ..................................... 557–566
+CRÉDITS, BIO DE L’AUTEUR, CONTACTS .............................. 567–570
+TABLEAUX, FIGURES (index visuel) ................................ 571–574
+REMERCIEMENTS FINAUX / NOTES DE L’ÉDITEUR ...................... 575–576
+VERSIONS FUTURES & NOTES DE MISE À JOUR ........................ 577–578
+ANNEXE: FICHIERS TÉLÉCHARGEABLES (CHECKLISTS / TEMPLATES) ...... 579–584
+FIN ................................................................ 585
