@@ -1,0 +1,9 @@
+@startuml
+title CI/CD Pipeline
+[Developer] --> [Git Repo]
+[Git Repo] --> [CI Server]
+[CI Server] --> [Tests]
+[CI Server] --> [Build]
+[Build] --> [Container Registry]
+[Container Registry] --> [CD]
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+title Config over Coding
+actor Developer
+database ConfigStore
+Developer --> ConfigStore : edits YAML/JSON
+ConfigStore --> Application : drives behavior
+@enduml

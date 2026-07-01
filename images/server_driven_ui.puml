@@ -1,0 +1,6 @@
+@startuml
+title Server-Driven UI
+[Server] --> [UI Schema]
+[UI Schema] --> [Client Renderer]
+[Client Renderer] --> [User Interaction]
+@enduml

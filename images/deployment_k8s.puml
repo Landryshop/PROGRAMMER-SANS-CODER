@@ -1,0 +1,8 @@
+@startuml
+title Deployment (Kubernetes)
+[CI/CD] --> [Container Registry]
+[Container Registry] --> [K8s Cluster]
+[K8s Cluster] --> [Pods]
+[Pods] --> [Services]
+[Services] --> [Load Balancer]
+@enduml

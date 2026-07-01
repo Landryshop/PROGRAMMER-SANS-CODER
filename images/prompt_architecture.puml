@@ -1,0 +1,8 @@
+@startuml
+title Prompt Architecture
+[Architect] --> [Prompt Templates]
+[Prompt Templates] --> [Prompt Engine]
+[Prompt Engine] --> [LLM]
+[LLM] --> [Generated Artifacts]
+[Generated Artifacts] --> [Validation]
+@enduml

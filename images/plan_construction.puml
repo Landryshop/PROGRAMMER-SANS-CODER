@@ -1,0 +1,7 @@
+@startuml
+title Plan de Construction Universel
+[Business Requirements] --> [Analysis]
+[Analysis] --> [Architecture Blueprint]
+[Architecture Blueprint] --> [Implementation]
+[Implementation] --> [Monitoring]
+@enduml

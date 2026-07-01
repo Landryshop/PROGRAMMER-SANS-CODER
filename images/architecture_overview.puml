@@ -1,0 +1,31 @@
+@startuml
+title Architecture Overview - PROGRAMMER SANS CODER
+package "Client" {
+  [Web App]
+  [Mobile App]
+}
+package "API Layer" {
+  [API Gateway]
+  [Auth Service]
+}
+package "Core Services" {
+  [User Service]
+  [Catalog Service]
+  [Order Service]
+  [AI Orchestrator]
+}
+package "Data & Infrastructure" {
+  [Database]
+  [Message Broker]
+  [Monitoring]
+}
+Web App --> API Gateway
+Mobile App --> API Gateway
+API Gateway --> Auth Service
+API Gateway --> User Service
+API Gateway --> Catalog Service
+Order Service --> AI Orchestrator
+AI Orchestrator --> Message Broker
+Message Broker --> Order Service
+Order Service --> Database
+@enduml

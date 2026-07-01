@@ -1,0 +1,12 @@
+@startuml
+title Microkernel Architecture
+package "Microkernel" {
+  [Core Kernel]
+  [Plugin: Payments]
+  [Plugin: Notifications]
+  [Plugin: Analytics]
+}
+[Core Kernel] --> [Plugin: Payments]
+[Core Kernel] --> [Plugin: Notifications]
+[Core Kernel] --> [Plugin: Analytics]
+@enduml

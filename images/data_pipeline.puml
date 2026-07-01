@@ -1,0 +1,8 @@
+@startuml
+title Data Pipeline - Event Driven
+[Source Systems] --> [Ingest]
+[Ingest] --> [Stream Processor]
+[Stream Processor] --> [Data Lake]
+[Stream Processor] --> [Serving Layer]
+[Serving Layer] --> [Applications]
+@enduml

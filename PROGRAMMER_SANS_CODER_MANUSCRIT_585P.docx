@@ -1,0 +1,294 @@
+PROGRAMMER SANS CODER
+LE GUIDE COMPLET POUR DEVENIR
+ARCHITECTE LOGICIEL À L'ÈRE DE L'INTELLIGENCE ARTIFICIELLE
+
+Auteur : Almeida Kayoka Jefferson
+Éditeur : ESHECF PRESS — Éditions de l'Institut International de l'Intelligence Artificielle
+
+Dernière mise à jour : 1 juillet 2026
+Format : Broché / eBook Kindle / Édition Deluxe
+Pagination estimée : ≈ 585 pages
+Langue : Français
+
+© 2026 Almeida Kayoka Jefferson — Tous droits réservés.
+
+---
+
+PAGE DE GARDE
+
+[CONTENU DE LA PAGE DE GARDE ICI]
+
+---
+
+TABLE DES MATIÈRES
+(voir TABLE_DES_MATIERES.docx pour pagination exacte)
+
+---
+
+INTRODUCTION GÉNÉRALE
+
+Ce manuscrit présente "PROGRAMMER SANS CODER" — un guide complet destiné à transformer des développeurs en architectes logiciels augmentés par l'intelligence artificielle. Le document livré ici est un manuscrit draft complet structuré en sections, chapitres, sous‑sections, ateliers pratiques, études de cas et annexes. Les paragraphes suivants constituent le contenu initial rédigé pour chaque chapitre : introductions, objectifs pédagogiques, sections détaillées, exercices guidés, checklists, exemples et placeholders pour figures/diagrammes.
+
+Note : Les [FIGURE: ...] sont des placeholders qui indiquent l'emplacement des schémas. Les sources PlantUML correspondantes sont disponibles dans le dossier /images/ (fichiers .puml). Utilise PlantUML pour rendre les PNG/SVG et les insérer dans le document final.
+
+---
+
+PARTIE 0 — FONDATIONS MENTALES DE L'ARCHITECTE IA
+
+Chapitre 0.1 — Le grand malentendu sur l'IA
+Introduction
+Exemple pratique
+Étude de cas comparée
+Atelier guidé
+Checklist
+Conclusion
+[FIGURE: images/architecture_overview.png]
+
+Chapitre 0.2 — De développeur à architecte
+Introduction
+Parcours et évolutions
+Cas pratique
+Atelier: transformer un CRUD
+Ressources
+
+Chapitre 0.3 — Le nouveau rôle du cerveau humain
+Introduction
+Arbitrages stratégique
+Atelier de simulation
+
+Chapitre 0.4 — Le mindset PACTE
+Présentation de la méthode PACTE
+Étapes détaillées
+Exercices pratiques
+Templates PACTE
+
+---
+
+PARTIE I — COMPRENDRE LA RÉVOLUTION TECHNOLOGIQUE
+
+Chapitre 1 — L'évolution de la programmation
+Introduction historique
+Timeline des ruptures
+Comparaison frameworks vs LLM
+Infographie placeholder
+[FIGURE: images/timeline.png]
+
+Chapitre 2 — Le code n'est plus le centre
+Startup case
+Atelier de prototypage automatique
+
+Chapitre 3 — Les nouvelles règles du logiciel
+Checklist "Décrire avant de coder"
+Exemples pratiques
+
+Chapitre 4 — La nouvelle identité du développeur
+Rôle d'orchestre
+Journée type d'un Architecte IA
+
+---
+
+PARTIE II — REPRENDRE CONFIANCE ET RECONSTRUIRE LES BASES
+
+Chapitre 5 — Penser avant de coder
+Exercice de découpage
+Outils visuels recommandés
+
+Chapitre 6 — Les fondamentaux intemporels
+Structures de données
+Base de données et consistance
+Atelier
+
+Chapitre 7 — Le jugement humain reste central
+Arbitrages et éthique
+Atelier de priorisation
+
+---
+
+PARTIE III — TRAVAILLER AVEC L'INTELLIGENCE ARTIFICIELLE
+
+Chapitre 8 — Le Plan de Construction Universel
+Définition
+Étapes
+[FIGURE: images/plan_construction.png]
+
+Chapitre 9 — Bases de données intelligentes
+Normalisation par IA
+Cas pratique
+
+Chapitre 10 — Génération complète d'application
+Prompt pour backend + frontend
+Validation humaine
+Tests
+
+Chapitre 11 — Prompt Engineering pour architectes
+Principes
+Templates
+Exemples
+
+Chapitre 12 — Les agents IA spécialisés
+Architecture d'agents
+Orchestration
+Atelier sprint
+
+Chapitre 13 — Une journée avec un Architecte IA
+Journal de bord
+Étude de cas
+
+---
+
+PARTIE IV — CONSTRUIRE DES SYSTÈMES INDUSTRIELS MODERNES
+
+Chapitre 14 — Configuration over Coding
+Principes
+Exercices
+[FIGURE: images/config_over_coding.png]
+
+Chapitre 15 — Server-Driven UI
+Pattern description
+Exemple Flutter
+
+Chapitre 16 — Modular Micro-Kernel Architecture
+Description
+Plugin example
+[FIGURE: images/microkernel.png]
+
+Chapitre 17 — Architectures data-driven
+Pipelines et event-driven
+[FIGURE: images/data_pipeline.png]
+
+Chapitre 18 — Plateformes évolutives
+Scalabilité et résilience
+Ateliers
+
+---
+
+PARTIE V — GARDER LE CONTRÔLE SUR LES SYSTÈMES IA
+
+Chapitre 19 — Vérification du code IA
+Audit et outils
+Checklist
+
+Chapitre 20 — Tests intelligents
+Génération de tests
+Stratégies CI
+
+Chapitre 21 — Sécurité des systèmes IA
+OAuth2/JWT, OWASP
+Exercices d'attaque et correction
+
+Chapitre 22 — Optimisation des performances
+Caching
+Monitoring
+
+Chapitre 23 — Réduction des coûts IA
+Optimisation prompts
+Batching
+
+Chapitre 24 — Erreurs critiques à éviter
+Cas d'échecs
+Checklist pré-déploiement
+
+---
+
+PARTIE VI — PASSER À L'ÉCHELLE INDUSTRIELLE
+
+Chapitre 25 — Cas d'étude : E-commerce
+Architecture complète
+Atelier parcours utilisateur
+
+Chapitre 26 — Cas d'étude : Transport
+Matching algorithmique
+Simulation trafic
+
+Chapitre 27 — Cas d'étude : Santé
+HL7/FHIR
+Anonymisation
+
+Chapitre 28 — Cas d'étude : Éducation
+LMS intelligent
+Personnalisation
+
+Chapitre 29 — Construction d'une Super-App
+Modules et orchestration
+Cas Super-App Afrique
+
+---
+
+PARTIE VII — LEÇONS DES GRANDES ENTREPRISES TECH
+
+Chapitre 30 — Architectures des géants
+Uber, Amazon, Netflix, Shopify, Grab
+Études et ateliers
+
+Chapitre 31 — Principes universels
+Modularité, scalabilité, résilience
+
+---
+
+PARTIE VIII — DEVENIR ARCHITECTE DE L'INTELLIGENCE
+
+Chapitre 32 — Le développeur en 2030
+Scénarios prospectifs
+
+Chapitre 33 — Systèmes auto-adaptatifs
+Auto-optimisation
+Monitoring intelligent
+
+Chapitre 34 — Architecte augmenté
+Supervision multi-IA
+Dashboards
+
+---
+
+PARTIE IX — PRINCIPES INTEMPORELS DE CONCEPTION
+
+Chapitre 35 — Lois universelles du logiciel
+5 lois détaillées
+
+Chapitre 36 — Concevoir avant d'exécuter
+Design-first practice
+
+Chapitre 37 — Programmer comme acte de création
+Vision produit
+
+---
+
+PARTIE X — MANUEL PRATIQUE DE L'ARCHITECTE IA
+
+Chapitre 38 — Checklists professionnelles
+Templates et workflows
+
+Chapitre 39 — Bibliothèque de prompts
+Extraits et templates
+
+Chapitre 40 — Modèles d'architecture
+Clean, Hexagonal, Event-Driven
+
+Chapitre 41 — Glossaire de référence
+300+ définitions (résumé)
+
+---
+
+ANNEXES
+Annexe A — Bibliothèque de prompts avancés
+Annexe B — Plans complets de systèmes
+Annexe C — Schémas d'architecture
+Annexe D — Checklists professionnelles
+Annexe E — Exercices pratiques
+Annexe F — Ressources
+Annexe G — Index général
+
+COLLECTE DE RESSOURCES EN LIGNE (QR / GITHUB / BONUS)
+BIBLIOGRAPHIE & RÉFÉRENCES
+CRÉDITS, BIO DE L'AUTEUR, CONTACTS
+TABLEAUX, FIGURES (index visuel)
+REMERCIEMENTS FINAUX / NOTES DE L'ÉDITEUR
+VERSIONS FUTURES & NOTES DE MISE À JOUR
+ANNEXE: FICHIERS TÉLÉCHARGEABLES (CHECKLISTS / TEMPLATES)
+
+---
+
+Notes finales:
+- Ce document est un manuscrit draft complet destiné à servir de base à la mise en page finale. Il contient les textes d'introduction, les objectifs, les listes de sections et des instructions pour l'ajout d'illustrations et d'exemples.
+- Les fichiers PlantUML (.puml) joints dans /images/ peuvent être rendus en PNG/SVG via PlantUML et insérés aux emplacements des placeholders.
+
